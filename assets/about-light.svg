@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="372" viewBox="0 0 1200 372" fill="none" role="img">
+<style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="589" height="181" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="22" y="22" width="38" height="38" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(29 29)" stroke="#1f2328" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="4" y="3" width="11" height="15" rx="1.5"/><path d="M7 7h5M7 10h5M7 13h3"/><circle cx="16.5" cy="16.5" r="3.5"/><path d="M19 19l2.5 2.5"/></g>
+<text x="22" y="96" class="s" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" >Vision-Language Models</text>
+<text x="22" y="122" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >Fine-tuned VLMs that read energy bills,</text>
+<text x="22" y="142" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >invoices and transport documents.</text>
+<rect x="605.5" y="0.5" width="289" height="181" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="627" y="22" width="38" height="38" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(634 29)" stroke="#1f2328" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 8V4h4M17 4h4v4M21 16v4h-4M7 20H3v-4"/><rect x="8" y="8" width="8" height="8" rx="1"/></g>
+<text x="627" y="96" class="s" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" >Computer Vision</text>
+<text x="627" y="122" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >YOLOv11-seg · YOLOE · OpenCV ·</text>
+<text x="627" y="142" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >MediaPipe real-time pose metrics</text>
+<rect x="910.5" y="0.5" width="289" height="181" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="932" y="22" width="38" height="38" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(939 29)" stroke="#1f2328" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M4 5h16v10H9l-5 4z"/><path d="M8 9h8M8 12h5"/></g>
+<text x="932" y="96" class="s" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" >LLM Applications</text>
+<text x="932" y="122" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >Prompt engineering, LangChain,</text>
+<text x="932" y="142" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >natural language → structured action</text>
+<rect x="0.5" y="190.5" width="439" height="181" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="22" y="212" width="38" height="38" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(29 219)" stroke="#1f2328" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M7 18h10a4 4 0 0 0 .6-7.95A6 6 0 0 0 6.2 9.2 4.5 4.5 0 0 0 7 18z"/><path d="M12 11v5M9.5 13.5L12 11l2.5 2.5"/></g>
+<text x="22" y="286" class="s" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" >Cloud &amp; MLOps</text>
+<text x="22" y="312" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >Google Cloud Professional ML Engineer</text>
+<text x="22" y="332" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >&amp; Data Engineer · Docker on GCP</text>
+<rect x="455.5" y="190.5" width="744" height="181" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="477" y="212" width="38" height="38" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(484 219)" stroke="#1f2328" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 3l7 3v5c0 4.5-3 8.2-7 10-4-1.8-7-5.5-7-10V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></g>
+<text x="477" y="286" class="s" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" >Software Assurance</text>
+<text x="477" y="312" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >CSTS-certified tester · model validation</text>
+<text x="477" y="332" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >and QA for web &amp; mobile releases</text>
+</svg>

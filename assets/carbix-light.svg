@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img">
+<style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="1199" height="399" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="24" y="24" width="58" height="58" rx="12" fill="#f6f8fa" stroke="#d0d7de"/><g transform="translate(33 33)"><circle cx="20" cy="20" r="17" fill="none" stroke="#2ea043" stroke-width="3"/><path d="M27 13.5a9 9 0 1 0 0 13" stroke="#2ea043" stroke-width="3.2" stroke-linecap="round" fill="none"/><path d="M20 9c4 3 4 8 0 11" stroke="#39d3bb" stroke-width="2" fill="none" stroke-linecap="round"/></g>
+<text x="98" y="50" class="s" font-size="24" font-weight="600" fill="#1f2328" text-anchor="start" >Carbix</text>
+<rect x="186" y="32" width="188.5" height="22" rx="11" fill="#f6f8fa" stroke="#d0d7de"/><text x="280.25" y="47" class="s" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle" >Flagship · PM &amp; team lead</text>
+<text x="98" y="74" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >Scope 1·2·3 carbon accounting from a photo of the paperwork.</text>
+<g transform="translate(1001.1 24)"><rect x="0" y="0" width="174.9" height="22" rx="11" fill="#9a6700" stroke="#d0d7de"/><text x="87.42999999999999" y="15" class="s" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle" >★ Selected for CES 2027</text></g>
+<text x="98" y="118" class="s" font-size="13.5" font-weight="400" fill="#1f2328" text-anchor="start" >A multimodal VLM platform that turns SME suppliers' unstructured energy bills</text>
+<text x="98" y="139" class="s" font-size="13.5" font-weight="400" fill="#1f2328" text-anchor="start" >and transport documents into Scope 1·2·3 emissions. YOLOv11-seg isolates the</text>
+<text x="98" y="160" class="s" font-size="13.5" font-weight="400" fill="#1f2328" text-anchor="start" >regions that matter, a fine-tuned VLM extracts the fields, and T-map routing</text>
+<text x="98" y="181" class="s" font-size="13.5" font-weight="400" fill="#1f2328" text-anchor="start" >computes Scope 3 transport. Shipped as a Next.js web app and a Flutter mobile app.</text>
+<text x="98" y="218" class="s" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start" >I proposed the idea and led a 7-person team across AI, software and business:</text>
+<text x="98" y="239" class="s" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start" >augmentation pipeline for the VLM dataset, model validation, QA, and every pitch.</text>
+<rect x="98" y="262" width="150" height="52" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="110" y="283" class="s" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Gold Prize</text>
+<text x="110" y="302" class="s" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >KIIT 2026 · 1st author</text>
+<rect x="256" y="262" width="150" height="52" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="268" y="283" class="s" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >2nd place</text>
+<text x="268" y="302" class="s" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >SW Sangsang-Gieop 2026</text>
+<rect x="414" y="262" width="150" height="52" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="426" y="283" class="s" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Patent</text>
+<text x="426" y="302" class="s" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >KIPO 10-2026-0202274</text>
+<rect x="572" y="262" width="150" height="52" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="584" y="283" class="s" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >SW copyright</text>
+<text x="584" y="302" class="s" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >C-2026-037429</text>
+<line x1="1" y1="340" x2="1199" y2="340" stroke="#eaeef2"/>
+<rect x="24" y="356" width="117.3" height="22" rx="11.0" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="82.66499999999999" y="370.96" class="m" font-size="11" font-weight="500" fill="#1f2328" text-anchor="middle" >VLM fine-tuning</text>
+<rect x="147.32999999999998" y="356" width="90.8" height="22" rx="11.0" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="192.75099999999998" y="370.96" class="m" font-size="11" font-weight="500" fill="#1f2328" text-anchor="middle" >YOLOv11-seg</text>
+<rect x="244.17199999999997" y="356" width="84.2" height="22" rx="11.0" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="286.282" y="370.96" class="m" font-size="11" font-weight="500" fill="#1f2328" text-anchor="middle" >Gemini API</text>
+<rect x="334.39199999999994" y="356" width="64.4" height="22" rx="11.0" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="366.56899999999996" y="370.96" class="m" font-size="11" font-weight="500" fill="#1f2328" text-anchor="middle" >Next.js</text>
+<rect x="404.7459999999999" y="356" width="64.4" height="22" rx="11.0" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="436.92299999999994" y="370.96" class="m" font-size="11" font-weight="500" fill="#1f2328" text-anchor="middle" >Flutter</text>
+<rect x="1049.75" y="351" width="126.3" height="32" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1112.875" y="372" class="s" font-size="12.5" font-weight="500" fill="#1f2328" text-anchor="middle" >INSIGHT LAB  →</text>
+<rect x="760" y="70" width="416" height="250" rx="8" fill="#0a0e13" stroke="#262c34"/>
+<path d="M768 70h400a8 8 0 0 1 8 8v18H760V78a8 8 0 0 1 8-8z" fill="#11161d"/>
+<circle cx="776" cy="83" r="4" fill="#ff5f57"/>
+<circle cx="789" cy="83" r="4" fill="#febc2e"/>
+<circle cx="802" cy="83" r="4" fill="#28c840"/>
+<text x="1164" y="87" class="m" font-size="10" font-weight="400" fill="#7d8590" text-anchor="end" >~/carbix · demo</text>
+<text x="776" y="120" class="m" font-size="11.5"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">carbix scan ./bills/2026-05/*.jpg</tspan></text>
+<text x="776" y="141" class="m" font-size="11.5"><tspan fill="#7ee787">✓ </tspan><tspan fill="#7d8590">segment  </tspan><tspan fill="#79c0ff">YOLOv11-seg   </tspan><tspan fill="#e6edf3">12 regions</tspan></text>
+<text x="776" y="162" class="m" font-size="11.5"><tspan fill="#7ee787">✓ </tspan><tspan fill="#7d8590">extract  </tspan><tspan fill="#79c0ff">carbix-vlm    </tspan><tspan fill="#e6edf3">supplier·period·kWh</tspan></text>
+<text x="776" y="183" class="m" font-size="11.5"><tspan fill="#7ee787">✓ </tspan><tspan fill="#7d8590">route    </tspan><tspan fill="#79c0ff">T-map         </tspan><tspan fill="#e6edf3">48.2 km</tspan></text>
+<text x="776" y="210" class="m" font-size="11.5" font-weight="400" fill="#7d8590" text-anchor="start" >scope 1</text>
+<rect x="846" y="201" width="230" height="10" rx="2" fill="#1c232c"/>
+<rect x="846" y="201" width="76" height="10" rx="2" fill="#e3b341"/>
+<text x="1160" y="210" class="m" font-size="11.5" font-weight="400" fill="#e6edf3" text-anchor="end" >0.8 t</text>
+<text x="776" y="231" class="m" font-size="11.5" font-weight="400" fill="#7d8590" text-anchor="start" >scope 2</text>
+<rect x="846" y="222" width="230" height="10" rx="2" fill="#1c232c"/>
+<rect x="846" y="222" width="230" height="10" rx="2" fill="#39d3bb"/>
+<text x="1160" y="231" class="m" font-size="11.5" font-weight="400" fill="#e6edf3" text-anchor="end" >2.4 t</text>
+<text x="776" y="252" class="m" font-size="11.5" font-weight="400" fill="#7d8590" text-anchor="start" >scope 3</text>
+<rect x="846" y="243" width="230" height="10" rx="2" fill="#1c232c"/>
+<rect x="846" y="243" width="58" height="10" rx="2" fill="#79c0ff"/>
+<text x="1160" y="252" class="m" font-size="11.5" font-weight="400" fill="#e6edf3" text-anchor="end" >0.6 t</text>
+<line x1="776" y1="280" x2="1160" y2="280" stroke="#1c232c"/>
+<text x="776" y="302" class="m" font-size="11.5"><tspan fill="#7d8590">total </tspan><tspan fill="#e6edf3" font-weight="700">3.8 tCO2e</tspan><tspan fill="#7ee787">  ✓ ready for report</tspan></text>
+</svg>
