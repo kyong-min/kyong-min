@@ -6,24 +6,24 @@
 <rect x="186" y="32" width="188.5" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="280.25" y="47" class="s" font-size="11" font-weight="600" fill="#e6edf3" text-anchor="middle" >Flagship · PM &amp; team lead</text>
 <text x="98" y="74" class="s" font-size="14" font-weight="400" fill="#8b949e" text-anchor="start" >Scope 1·2·3 carbon accounting from a photo of the paperwork.</text>
 <g transform="translate(1001.1 24)"><rect x="0" y="0" width="174.9" height="22" rx="11" fill="#3d2e00" stroke="#30363d"/><text x="87.42999999999999" y="15" class="s" font-size="11" font-weight="600" fill="#fff8c5" text-anchor="middle" >★ Selected for CES 2027</text></g>
-<text x="98" y="118" class="s" font-size="13.5" font-weight="400" fill="#e6edf3" text-anchor="start" >A multimodal VLM platform that turns SME suppliers' unstructured energy bills</text>
-<text x="98" y="139" class="s" font-size="13.5" font-weight="400" fill="#e6edf3" text-anchor="start" >and transport documents into Scope 1·2·3 emissions. YOLOv11-seg isolates the</text>
-<text x="98" y="160" class="s" font-size="13.5" font-weight="400" fill="#e6edf3" text-anchor="start" >regions that matter, a fine-tuned VLM extracts the fields, and T-map routing</text>
-<text x="98" y="181" class="s" font-size="13.5" font-weight="400" fill="#e6edf3" text-anchor="start" >computes Scope 3 transport. Shipped as a Next.js web app and a Flutter mobile app.</text>
-<text x="98" y="218" class="s" font-size="13.5" font-weight="400" fill="#8b949e" text-anchor="start" >I proposed the idea and led a 7-person team across AI, software and business:</text>
-<text x="98" y="239" class="s" font-size="13.5" font-weight="400" fill="#8b949e" text-anchor="start" >augmentation pipeline for the VLM dataset, model validation, QA, and every pitch.</text>
+<text x="98" y="118" class="s" font-size="14.5" font-weight="400" fill="#e6edf3" text-anchor="start" >A multimodal VLM platform that turns SME suppliers' unstructured energy bills</text>
+<text x="98" y="140" class="s" font-size="14.5" font-weight="400" fill="#e6edf3" text-anchor="start" >and transport documents into Scope 1·2·3 emissions. YOLOv11-seg isolates the</text>
+<text x="98" y="162" class="s" font-size="14.5" font-weight="400" fill="#e6edf3" text-anchor="start" >regions that matter, a fine-tuned VLM extracts the fields, and T-map routing</text>
+<text x="98" y="184" class="s" font-size="14.5" font-weight="400" fill="#e6edf3" text-anchor="start" >computes Scope 3 transport. Shipped as a Next.js web app and a Flutter mobile app.</text>
+<text x="98" y="220" class="s" font-size="14" font-weight="400" fill="#8b949e" text-anchor="start" >I proposed the idea and led a 7-person team across AI, software and business:</text>
+<text x="98" y="241" class="s" font-size="14" font-weight="400" fill="#8b949e" text-anchor="start" >augmentation pipeline for the VLM dataset, model validation, QA, and every pitch.</text>
 <rect x="98" y="262" width="150" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="110" y="283" class="s" font-size="12.5" font-weight="600" fill="#e6edf3" text-anchor="start" >Gold Prize</text>
-<text x="110" y="302" class="s" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" >KIIT 2026 · 1st author</text>
+<text x="110" y="284" class="s" font-size="14" font-weight="700" fill="#e3b341" text-anchor="start" >Gold Prize</text>
+<text x="110" y="303" class="s" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="start" >KIIT 2026 · 1st author</text>
 <rect x="256" y="262" width="150" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="268" y="283" class="s" font-size="12.5" font-weight="600" fill="#e6edf3" text-anchor="start" >2nd place</text>
-<text x="268" y="302" class="s" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" >SW Sangsang-Gieop 2026</text>
+<text x="268" y="284" class="s" font-size="14" font-weight="700" fill="#58a6ff" text-anchor="start" >2nd place</text>
+<text x="268" y="303" class="s" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="start" >SW Sangsang-Gieop 2026</text>
 <rect x="414" y="262" width="150" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="426" y="283" class="s" font-size="12.5" font-weight="600" fill="#e6edf3" text-anchor="start" >Patent</text>
-<text x="426" y="302" class="s" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" >KIPO 10-2026-0202274</text>
+<text x="426" y="284" class="s" font-size="14" font-weight="700" fill="#3fb950" text-anchor="start" >Patent</text>
+<text x="426" y="303" class="s" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="start" >KIPO 10-2026-0202274</text>
 <rect x="572" y="262" width="150" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="584" y="283" class="s" font-size="12.5" font-weight="600" fill="#e6edf3" text-anchor="start" >SW copyright</text>
-<text x="584" y="302" class="s" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" >C-2026-037429</text>
+<text x="584" y="284" class="s" font-size="14" font-weight="700" fill="#3fb950" text-anchor="start" >SW copyright</text>
+<text x="584" y="303" class="s" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="start" >C-2026-037429</text>
 <line x1="1" y1="340" x2="1199" y2="340" stroke="#21262d"/>
 <rect x="24" y="356" width="117.3" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="82.66499999999999" y="370.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >VLM fine-tuning</text>

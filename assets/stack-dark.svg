@@ -2,10 +2,10 @@
 <style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
 <rect x="0.5" y="0.5" width="1199" height="320" rx="10" fill="#0d1117" stroke="#30363d"/>
 <path d="M10.5 .5h1179a10 10 0 0 1 10 10V44H.5V10.5a10 10 0 0 1 10-10z" fill="#161b22" stroke="#30363d"/>
-<text x="24" y="27" class="s" font-size="12" font-weight="600" fill="#8b949e" text-anchor="start" >Layer</text>
-<text x="250" y="27" class="s" font-size="12" font-weight="600" fill="#8b949e" text-anchor="start" >Technologies</text>
+<text x="24" y="27" class="s" font-size="13" font-weight="600" fill="#8b949e" text-anchor="start" >Layer</text>
+<text x="250" y="27" class="s" font-size="13" font-weight="600" fill="#8b949e" text-anchor="start" >Technologies</text>
 <g transform="translate(24 59) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="4" y="3" width="11" height="15" rx="1.5"/><path d="M7 7h5M7 10h5M7 13h3"/><circle cx="16.5" cy="16.5" r="3.5"/><path d="M19 19l2.5 2.5"/></g>
-<text x="52" y="72" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >Vision-Language</text>
+<text x="52" y="72" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >Vision-Language</text>
 <rect x="250" y="56" width="84.2" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="292.11" y="70.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >Gemini API</text>
 <rect x="340.22" y="56" width="117.3" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
@@ -18,7 +18,7 @@
 <text x="775.4970000000001" y="70.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >Data augmentation</text>
 <line x1="1" y1="90" x2="1199" y2="90" stroke="#21262d"/>
 <g transform="translate(24 105) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 8V4h4M17 4h4v4M21 16v4h-4M7 20H3v-4"/><rect x="8" y="8" width="8" height="8" rx="1"/></g>
-<text x="52" y="118" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >Vision</text>
+<text x="52" y="118" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >Vision</text>
 <rect x="250" y="102" width="90.8" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="295.421" y="116.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >YOLOv11-seg</text>
 <rect x="346.842" y="102" width="51.1" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
@@ -31,7 +31,7 @@
 <text x="570.2149999999999" y="116.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >OCR</text>
 <line x1="1" y1="136" x2="1199" y2="136" stroke="#21262d"/>
 <g transform="translate(24 151) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M4 5h16v10H9l-5 4z"/><path d="M8 9h8M8 12h5"/></g>
-<text x="52" y="164" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >ML &amp; LLM</text>
+<text x="52" y="164" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >ML &amp; LLM</text>
 <rect x="250" y="148" width="64.4" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="282.177" y="162.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >PyTorch</text>
 <rect x="320.354" y="148" width="84.2" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
@@ -46,7 +46,7 @@
 <text x="696.8559999999999" y="162.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >DistilBERT</text>
 <line x1="1" y1="182" x2="1199" y2="182" stroke="#21262d"/>
 <g transform="translate(24 197) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M7 18h10a4 4 0 0 0 .6-7.95A6 6 0 0 0 6.2 9.2 4.5 4.5 0 0 0 7 18z"/><path d="M12 11v5M9.5 13.5L12 11l2.5 2.5"/></g>
-<text x="52" y="210" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >Cloud</text>
+<text x="52" y="210" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >Cloud</text>
 <rect x="250" y="194" width="97.5" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="298.73199999999997" y="208.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >Google Cloud</text>
 <rect x="353.464" y="194" width="57.7" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
@@ -57,7 +57,7 @@
 <text x="486.617" y="208.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >PDE</text>
 <line x1="1" y1="228" x2="1199" y2="228" stroke="#21262d"/>
 <g transform="translate(24 243) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 3l7 3v5c0 4.5-3 8.2-7 10-4-1.8-7-5.5-7-10V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></g>
-<text x="52" y="256" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >Assurance</text>
+<text x="52" y="256" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >Assurance</text>
 <rect x="250" y="240" width="44.5" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="272.244" y="254.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >CSTS</text>
 <rect x="300.488" y="240" width="90.8" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
@@ -68,7 +68,7 @@
 <text x="582.636" y="254.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >Model validation</text>
 <line x1="1" y1="274" x2="1199" y2="274" stroke="#21262d"/>
 <g transform="translate(24 289) scale(.66)" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 8V4h4M17 4h4v4M21 16v4h-4M7 20H3v-4"/><rect x="8" y="8" width="8" height="8" rx="1"/></g>
-<text x="52" y="302" class="s" font-size="13.5" font-weight="500" fill="#e6edf3" text-anchor="start" >Apps &amp; Languages</text>
+<text x="52" y="302" class="s" font-size="15" font-weight="600" fill="#58a6ff" text-anchor="start" >Apps &amp; Languages</text>
 <rect x="250" y="286" width="57.7" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>
 <text x="278.866" y="300.96" class="m" font-size="11" font-weight="500" fill="#e6edf3" text-anchor="middle" >Python</text>
 <rect x="313.73199999999997" y="286" width="57.7" height="22" rx="11.0" fill="#161b22" stroke="#30363d"/>

@@ -2,24 +2,24 @@
 <style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
 <rect x="0.5" y="0.5" width="1199" height="317" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <line x1="132" y1="34" x2="132" y2="284" stroke="#d0d7de" stroke-width="2"/>
-<text x="110" y="46" class="m" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >Sep 2026</text>
+<text x="110" y="46" class="m" font-size="13" font-weight="400" fill="#59636e" text-anchor="end" >Sep 2026</text>
 <circle cx="132" cy="42" r="7" fill="#ffffff" stroke="#9a6700" stroke-width="3"/>
-<text x="156" y="41" class="s" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start" >Top Excellence Award · 2nd place</text>
-<text x="156" y="61" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >SW Sangsang-Gieop SW/IT Startup Competition — Carbix, selected for CES 2027</text>
-<text x="110" y="104" class="m" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >Jun 2026</text>
+<text x="156" y="41" class="s" font-size="17" font-weight="700" fill="#9a6700" text-anchor="start" >Top Excellence Award · 2nd place</text>
+<text x="156" y="62" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >SW Sangsang-Gieop SW/IT Startup Competition — Carbix, selected for CES 2027</text>
+<text x="110" y="104" class="m" font-size="13" font-weight="400" fill="#59636e" text-anchor="end" >Jun 2026</text>
 <circle cx="132" cy="100" r="7" fill="#ffffff" stroke="#9a6700" stroke-width="3"/>
-<text x="156" y="99" class="s" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start" >Gold Prize</text>
-<text x="156" y="119" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >KIIT Undergraduate Paper Competition — Carbix, first author</text>
-<text x="110" y="162" class="m" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >May 2026</text>
+<text x="156" y="99" class="s" font-size="17" font-weight="700" fill="#9a6700" text-anchor="start" >Gold Prize</text>
+<text x="156" y="120" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >KIIT Undergraduate Paper Competition — Carbix, first author</text>
+<text x="110" y="162" class="m" font-size="13" font-weight="400" fill="#59636e" text-anchor="end" >May 2026</text>
 <circle cx="132" cy="158" r="7" fill="#ffffff" stroke="#0969da" stroke-width="3"/>
-<text x="156" y="157" class="s" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start" >Outstanding Paper Award</text>
-<text x="156" y="177" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >KAICTS Spring Conference — Upright, real-time posture correction</text>
-<text x="110" y="220" class="m" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >Jul 2025</text>
+<text x="156" y="157" class="s" font-size="17" font-weight="700" fill="#0969da" text-anchor="start" >Outstanding Paper Award</text>
+<text x="156" y="178" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >KAICTS Spring Conference — Upright, real-time posture correction</text>
+<text x="110" y="220" class="m" font-size="13" font-weight="400" fill="#59636e" text-anchor="end" >Jul 2025</text>
 <circle cx="132" cy="216" r="7" fill="#ffffff" stroke="#0969da" stroke-width="3"/>
-<text x="156" y="215" class="s" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start" >Achievement Award</text>
-<text x="156" y="235" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >Qualcomm Institute AI Entrepreneurship Program, UC San Diego</text>
-<text x="110" y="278" class="m" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >Jun 2025</text>
+<text x="156" y="215" class="s" font-size="17" font-weight="700" fill="#0969da" text-anchor="start" >Achievement Award</text>
+<text x="156" y="236" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >Qualcomm Institute AI Entrepreneurship Program, UC San Diego</text>
+<text x="110" y="278" class="m" font-size="13" font-weight="400" fill="#59636e" text-anchor="end" >Jun 2025</text>
 <circle cx="132" cy="274" r="7" fill="#ffffff" stroke="#6e7781" stroke-width="3"/>
-<text x="156" y="273" class="s" font-size="15" font-weight="600" fill="#1f2328" text-anchor="start" >Silver Prize</text>
-<text x="156" y="293" class="s" font-size="13" font-weight="400" fill="#59636e" text-anchor="start" >KIIT Undergraduate Paper Competition — PickDream, LLM classroom booking</text>
+<text x="156" y="273" class="s" font-size="17" font-weight="700" fill="#6e7781" text-anchor="start" >Silver Prize</text>
+<text x="156" y="294" class="s" font-size="14" font-weight="400" fill="#59636e" text-anchor="start" >KIIT Undergraduate Paper Competition — PickDream, LLM classroom booking</text>
 </svg>

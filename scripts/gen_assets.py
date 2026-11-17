@@ -276,9 +276,9 @@ def about(theme):
     for (key, title, desc), (x, y, w) in zip(items, layout):
         o.append(card(x, y, w, 182, c))
         o.append(icon(x + 22, y + 22, key, c))
-        o.append(txt(x + 22, y + 96, title, 16, c["text"], "s", 600))
+        o.append(txt(x + 22, y + 96, title, 18, c["accent"], "s", 700))
         for i, d in enumerate(desc):
-            o.append(txt(x + 22, y + 122 + i * 20, d, 13, c["muted"]))
+            o.append(txt(x + 22, y + 122 + i * 20, d, 14, c["muted"]))
     write(f"about-{theme}.svg", svg(W, H, "\n".join(o)))
 
 
@@ -297,15 +297,15 @@ def stack(theme):
     H = 44 + rh * len(rows) + 1
     o = [card(0, 0, W, H, c)]
     o.append(f'<path d="M10.5 .5h{W-21}a10 10 0 0 1 10 10V44H.5V10.5a10 10 0 0 1 10-10z" fill="{c["head"]}" stroke="{c["border"]}"/>')
-    o.append(txt(24, 27, "Layer", 12, c["muted"], "s", 600))
-    o.append(txt(250, 27, "Technologies", 12, c["muted"], "s", 600))
+    o.append(txt(24, 27, "Layer", 13, c["muted"], "s", 600))
+    o.append(txt(250, 27, "Technologies", 13, c["muted"], "s", 600))
     for i, (key, name, items) in enumerate(rows):
         y = 44 + i * rh
         if i:
             o.append(f'<line x1="1" y1="{y}" x2="{W-1}" y2="{y}" stroke="{c["rowline"]}"/>')
         o.append(f'<g transform="translate(24 {y+15}) scale(.66)" stroke="{c["muted"]}" stroke-width="2" '
                  f'stroke-linecap="round" stroke-linejoin="round" fill="none">{ICONS[key]}</g>')
-        o.append(txt(52, y + 28, name, 13.5, c["text"], "s", 500))
+        o.append(txt(52, y + 28, name, 15, c["accent"], "s", 600))
         ch, _ = chips(250, y + 12, items, c)
         o.append(ch)
     write(f"stack-{theme}.svg", svg(W, H, "\n".join(o)))
@@ -362,17 +362,19 @@ def carbix(theme):
         "computes Scope 3 transport. Shipped as a Next.js web app and a Flutter mobile app.",
     ]
     for i, d in enumerate(desc):
-        o.append(txt(98, 118 + i * 21, d, 13.5, c["text"]))
-    o.append(txt(98, 218, "I proposed the idea and led a 7-person team across AI, software and business:", 13.5, c["muted"]))
-    o.append(txt(98, 239, "augmentation pipeline for the VLM dataset, model validation, QA, and every pitch.", 13.5, c["muted"]))
+        o.append(txt(98, 118 + i * 22, d, 14.5, c["text"]))
+    o.append(txt(98, 220, "I proposed the idea and led a 7-person team across AI, software and business:", 14, c["muted"]))
+    o.append(txt(98, 241, "augmentation pipeline for the VLM dataset, model validation, QA, and every pitch.", 14, c["muted"]))
     # outcomes
-    outs = [("🥇", "Gold Prize", "KIIT 2026 · 1st author"), ("🏆", "2nd place", "SW Sangsang-Gieop 2026"),
-            ("📄", "Patent", "KIPO 10-2026-0202274"), ("©", "SW copyright", "C-2026-037429")]
-    for i, (e, a, s) in enumerate(outs):
+    outs = [("🥇", "Gold Prize", "KIIT 2026 · 1st author", c["gold"]),
+            ("🏆", "2nd place", "SW Sangsang-Gieop 2026", c["accent"]),
+            ("📄", "Patent", "KIPO 10-2026-0202274", c["green"]),
+            ("©", "SW copyright", "C-2026-037429", c["green"])]
+    for i, (e, a, s, acol) in enumerate(outs):
         ox = 98 + i * 158
         o.append(f'<rect x="{ox}" y="262" width="150" height="52" rx="8" fill="{c["chip"]}" stroke="{c["chipb"]}"/>')
-        o.append(txt(ox + 12, 283, a, 12.5, c["text"], "s", 600))
-        o.append(txt(ox + 12, 302, s, 11, c["muted"], "s"))
+        o.append(txt(ox + 12, 284, a, 14, acol, "s", 700))
+        o.append(txt(ox + 12, 303, s, 11.5, c["muted"], "s"))
     o.append(f'<line x1="1" y1="340" x2="{W-1}" y2="340" stroke="{c["rowline"]}"/>')
     ch, _ = chips(24, 356, ["VLM fine-tuning", "YOLOv11-seg", "Gemini API", "Next.js", "Flutter"], c)
     o.append(ch)
@@ -415,10 +417,10 @@ def awards(theme):
     o.append(f'<line x1="132" y1="34" x2="132" y2="{H-34}" stroke="{c["border"]}" stroke-width="2"/>')
     for i, (d, t, s, col) in enumerate(rows):
         y = 20 + i * rh
-        o.append(txt(110, y + 26, d, 12, c["muted"], "m", 400, "end"))
+        o.append(txt(110, y + 26, d, 13, c["muted"], "m", 400, "end"))
         o.append(f'<circle cx="132" cy="{y+22}" r="7" fill="{c["card"]}" stroke="{col}" stroke-width="3"/>')
-        o.append(txt(156, y + 21, t, 15, c["text"], "s", 600))
-        o.append(txt(156, y + 41, s, 13, c["muted"]))
+        o.append(txt(156, y + 21, t, 17, col, "s", 700))
+        o.append(txt(156, y + 42, s, 14, c["muted"]))
     write(f"awards-{theme}.svg", svg(W, H, "\n".join(o)))
 
 
@@ -428,15 +430,15 @@ def project(theme, key, title, badge_txt, tagline, desc, tags, btn, visual, awar
     W, H = 590, 360
     o = [card(0, 0, W, H, c)]
     o.append(logo_box(20, 20, logo, c))
-    o.append(txt(92, 44, title, 18, c["text"], "s", 600))
-    b, bw = badge(92 + len(title) * 18 * 0.56 + 10, 28, badge_txt, c)
+    o.append(txt(92, 44, title, 20, c["accent"], "s", 700))
+    b, bw = badge(92 + len(title) * 20 * 0.56 + 10, 28, badge_txt, c)
     o.append(b)
-    o.append(txt(92, 66, tagline, 12.5, c["muted"]))
+    o.append(txt(92, 67, tagline, 14, c["muted"]))
     if award:
         b2, w2 = badge(0, 0, award, c)
         o.append(f'<g transform="translate({W-20-w2:.1f} 26)">{b2}</g>')
     for i, d in enumerate(desc):
-        o.append(txt(20, 104 + i * 19, d, 13, c["text"]))
+        o.append(txt(20, 104 + i * 20, d, 14, c["text"]))
     o.append(visual)
     o.append(f'<line x1="1" y1="308" x2="{W-1}" y2="308" stroke="{c["rowline"]}"/>')
     ch, _ = chips(20, 321, tags, c, 10.5, 5, 21)
